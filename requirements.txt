@@ -1,0 +1,9 @@
+opencv-python
+numpy
+sklearn
+pandas
+os
+keras
+mediapipe 
+tensorflow
+model
